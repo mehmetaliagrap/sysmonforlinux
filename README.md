@@ -1,6 +1,8 @@
-# sysmonforlinux
-sysmon for linux
+# SYSMON FOR linux
 
+edit offline rpm packages from https://packages.microsoft.com/rhel/8/prod/Packages/s/
+upload to your server
+download sysmon xml config sample https://gist.github.com/Cyb3rWard0g/bcf1514cc340197f0076bf1da8954077 from here
 
 # # sysmon offline installation on Linux Red Hat 8.8 
 	root@xxx:/]# /cat /etc/redhat-release
